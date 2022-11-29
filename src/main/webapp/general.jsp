@@ -69,7 +69,7 @@
     </div>
 <br>
 <div class="row" style="width: 80%; margin-left:300px ">
-      <div class="col-sm" style=";">$12.90</div>
+      <div class="col-sm" style=";">$12.91</div>
       <div class="col-sm" style=";">$12.90</div>
       <div class="col-sm" style=";">$12.90</div>
       <div class="col-sm" style=";">$12.90</div>
