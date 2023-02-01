@@ -39,7 +39,7 @@
     </form>
     
     <button style="font-size: 15px;background-color: #14274F;color:white;border-radius: 8px; border-color:white; margin-right:10px; margin-left:20px; padding-top: 5px; padding-bottom: 5px; padding-left:15px; padding-right:15px;">Log in</button>
-    <button style="font-size: 15px;background-color: #14274F;color:white;border-radius: 8px; border-color:white; margin-left:10px; padding-top: 5px; padding-bottom: 5px; padding-left:15px; padding-right:15px;">Sign up</button>
+    <a href="<%=request.getContextPath()%>/registeracc.jsp" class="btn btn-success">Add New User</a>
     
   </div>
 </nav>
